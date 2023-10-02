@@ -6,10 +6,6 @@ This Python script generates random customer data, including Customer Id, age, g
 
 - [Installation](#installation)
 - [Usage](#usage)
-- [Sample Output](#sample-output)
-- [Customization](#customization)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Installation
 
