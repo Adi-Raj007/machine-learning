@@ -12,5 +12,14 @@ This Python script generates random customer data, including Customer Id, age, g
 - [License](#license)
 
 ## Installation
- python generate_random_data.py
+ ## Usage
+
+To use this Python script, follow these steps:
+
+1. Clone the repository to your local machine.
+2. Install the required dependencies.
+3. Run the script by executing `python script.py`.
+
+4. View the generated output in the `output/` directory.
+
 
