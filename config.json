@@ -1,0 +1,14 @@
+{
+  "random_seed": 21,
+  "n_customers": 500,
+  "age_range": [17, 70],
+  "gender_options": ["Male", "Female"],
+  "total_spend_range": [50, 500],
+  "purchase_date_range": {
+    "start": "2023-01-05",
+    "end": "2023-06-06"
+  },
+  "product_category_preferences": ["clothing", "shoes", "accessories"],
+  "website_visits_range": [1, 30],
+  "output_file": "random_data_generator.csv"
+}
