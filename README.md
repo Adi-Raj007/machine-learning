@@ -12,6 +12,15 @@ This Python script generates random customer data, including Customer Id, age, g
 - [License](#license)
 
 ## Installation
+
+To install this project, follow these steps:
+
+1. Clone the repository to your local machine.
+2. Install the required dependencies.
+
+   ```bash
+   pip install -r requirements.txt
+
  ## Usage
 
 To use this Python script, follow these steps:
