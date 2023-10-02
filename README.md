@@ -12,3 +12,5 @@ This Python script generates random customer data, including Customer Id, age, g
 - [License](#license)
 
 ## Installation
+## Usage python generate_random_data.py
+
